@@ -3,7 +3,7 @@ Solidity, Standards & Interfaces Assignment ^^
 
 
 
-Creating a neew ERC20 contract and deploy it to my MetaMask account after connecting with Kovan Testnet network.
+Creating a new ERC20 contract and deploy it to my MetaMask account after connecting with Kovan Testnet network.
 
 ![image](https://user-images.githubusercontent.com/91940257/146655797-55786a42-8896-4432-86da-8e3f544fc9cc.png)
 
