@@ -15,7 +15,7 @@ Launching node 3.
 
 
 
-A name of the new network "funnetwork", a generaed RPC URL "http://127.0.0.1:8545" and a chain ID of "1313" were added in order to connect with the network.
+Adding a name of the new network "funnetwork", a RPC URL "http://127.0.0.1:8545" and a chain ID "1313" in order to connect with the network.
 
 ![image](https://user-images.githubusercontent.com/91940257/146655092-e60ca388-d28e-48e4-8e5c-f9284fec3d71.png)
 
