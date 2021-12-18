@@ -13,13 +13,15 @@ Launching node 3.
 
 ![launching node3](https://user-images.githubusercontent.com/91940257/146655076-25eb9c2f-d4f3-47a2-a8dc-401eb09ea512.png)
 
-A new network is added with a name of "funnetwork", a generaed RPC URL from the command prompt "http://127.0.0.1:8545" and a chain ID of "1313".
+
+
+A name of the new network "funnetwork", a generaed RPC URL "http://127.0.0.1:8545" and a chain ID of "1313" were added in order to connect with the network.
 
 ![image](https://user-images.githubusercontent.com/91940257/146655092-e60ca388-d28e-48e4-8e5c-f9284fec3d71.png)
 
 
 
-The imported account which contains very large amount of Ether!.
+Importing an account that contains very large amount of Ether!.
 
 ![image](https://user-images.githubusercontent.com/91940257/146655245-21a5dae0-92c3-4dc8-950a-9454eea32fc7.png)
 
