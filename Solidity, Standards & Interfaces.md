@@ -12,3 +12,8 @@ Creating some supply for my own "FUN" tokens, and sending some to each of my gro
 
 ![image](https://user-images.githubusercontent.com/91940257/146655849-635b3584-d721-4e18-abbc-bd34e6c60849.png)
 
+Importing some tokens from my class members.
+
+![image](https://user-images.githubusercontent.com/91940257/146674079-1dc65dfe-938c-413e-9dad-096c390f8808.png)
+
+
